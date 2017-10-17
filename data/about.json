@@ -1,0 +1,13 @@
+{   "name": "jeeva",
+    "bio": "Computer Science graduate student at Stevens Institute of technology.\n I also work as Research assistant in the Department of Physics, working on the Quantum Key Distribution(QKD). Independently developed Stand-alone desktop tool, implementing the algorithm for error checking, for the post processing of the QKD data. Also, working on a protocol for secure data transfer over TCP using the QKD.",
+    "Tv shows":["Game of Thrones",
+        "The Big Bang Theory",
+        "How I met your Mother",
+        "Friends",
+        "Modern Family"],
+
+    "hobbies": ["Biking",
+        "Guitar",
+        "Hikes or treks",
+        "My motorcyles"]
+}
